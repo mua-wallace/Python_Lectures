@@ -32,5 +32,30 @@ class User:
 
 newUser =User("Wallace","wallace@gmail.com")
 
-print(newUser.email)
-print(newUser.bank_name)
+# print(newUser.email)
+# print(newUser.bank_name)
+
+
+# name = "wallace"
+
+# score = 12, 17, 10
+
+# score1 = (12, 17, 10)
+
+# skills = ['JavaScript', "Python", "PHP"]
+
+# age = 23
+
+# height = 1.79
+
+# isMarried = False
+
+
+# print(type(name))
+# print(type(score))
+# print(type(skills))
+# print(type(age))
+# print(type(height))
+# print(type(isMarried))
+
+

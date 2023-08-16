@@ -16,8 +16,8 @@ sum3 = add(sum1, sum2)
 # print(sum3)
 
 
-# def be_cheerful(name='', repeat= 2):
-#     print(f"Good morning {name}" * repeat)
+def be_cheerful(name='', repeat= 2):
+    print(f"Good morning {name}" * repeat)
   
 
 # be_cheerful()
