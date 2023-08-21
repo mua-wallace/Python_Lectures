@@ -59,3 +59,11 @@ newUser =User("Wallace","wallace@gmail.com")
 # print(type(isMarried))
 
 
+
+'''
+first ="mua"
+last ="wallace"
+
+
+muawallace@email.com
+'''
